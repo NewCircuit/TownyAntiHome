@@ -1,7 +1,7 @@
 name: TownyAntiHome
 version: ${project.version}
-main: jirubizu.townyantihome.TownyAntiHome
+main: io.newcircuit.townyantihome.TownyAntiHome
 api-version: 1.16
 depend: [ Towny ]
-authors: [ jirubizu ]
+authors: [ NewCircuit ]
 description: Prevent non-residents from setting home in towny claims

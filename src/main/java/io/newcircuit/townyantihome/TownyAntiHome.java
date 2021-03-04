@@ -1,6 +1,6 @@
-package jirubizu.townyantihome;
+package io.newcircuit.townyantihome;
 
-import jirubizu.townyantihome.events.OnCommandEvents;
+import io.newcircuit.townyantihome.events.OnCommandEvents;
 import org.bukkit.ChatColor;
 import org.bukkit.plugin.java.JavaPlugin;
 

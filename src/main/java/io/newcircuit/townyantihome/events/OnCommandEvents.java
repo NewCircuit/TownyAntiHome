@@ -1,4 +1,4 @@
-package jirubizu.townyantihome.events;
+package io.newcircuit.townyantihome.events;
 
 import com.palmergames.bukkit.towny.TownyAPI;
 import com.palmergames.bukkit.towny.object.Resident;
